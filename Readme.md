@@ -159,7 +159,10 @@ Users can perform an online diagnosis by answering questions related to 132 diff
 
 
 45 different diseases can be diagnosed with an accuracy of 100%
+
 ![img](./frontend/src/images/Screenshots/Result2.png)
+Recommended doctors based on diseases found due to symptoms:
+
 ![img](./frontend/src/images/Screenshots/Recommended.png)
 
 
