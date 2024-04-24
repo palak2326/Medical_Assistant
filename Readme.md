@@ -153,6 +153,9 @@ Users can perform an online diagnosis by answering questions related to 132 diff
 
 
 ![img](./frontend/src/images/Screenshots/pred1.png)
+![img](./frontend/src/images/Screenshots/Result2.png)
+![img](./frontend/src/images/Screenshots/Recommended.png)
+
 
 
 
@@ -182,10 +185,4 @@ A online library to read about topic related to fitness and health.
 
 
 
-## Made By and Contribution
 
-Md Faisal Rahman
-
-Palak Thakur
-
-Ankur Kumar
