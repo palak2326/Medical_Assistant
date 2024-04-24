@@ -167,6 +167,12 @@ Recommended doctors based on diseases found due to symptoms:
 
 
 
+### We can Logout 
+
+![img](./frontend/src/images/Screenshots/Logout.png)
+
+
+
 
 
 ### Latest News and Tips for better Health
