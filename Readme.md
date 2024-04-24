@@ -153,16 +153,17 @@ Users can perform an online diagnosis by answering questions related to 132 diff
 
 
 ![img](./frontend/src/images/Screenshots/pred1.png)
-![img](./frontend/src/images/Screenshots/Result2.png)
-![img](./frontend/src/images/Screenshots/Recommended.png)
+
 
 
 
 
 45 different diseases can be diagnosed with an accuracy of 100%
+![img](./frontend/src/images/Screenshots/Result2.png)
+![img](./frontend/src/images/Screenshots/Recommended.png)
 
 
-![img](./frontend/src/images/Screenshots/Result.png)
+
 
 
 ### Latest News and Tips for better Health
